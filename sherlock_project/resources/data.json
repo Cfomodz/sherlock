@@ -11,6 +11,205 @@
     "urlMain": "https://www.1337x.to/",
     "username_claimed": "FitGirl"
   },
+  "Tidal": {
+    "errorType": "status_code",
+    "url": "https://tidal.com/{}",
+    "urlMain": "https://tidal.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Wikipedia Article": {
+    "errorMsg": "noarticletext-nopermission",
+    "errorType": "message",
+    "url": "https://en.wikipedia.org/wiki/{}?uselang=qqx",
+    "urlMain": "https://www.wikipedia.org/",
+    "username_claimed": "Bill_Gates",
+    "username_unclaimed": "craciu25yt"
+  },
+  "v0.dev": {
+    "errorType": "message",
+    "errorMsg": "404 - Page Not Found",
+    "url": "https://v0.dev/{}",
+    "urlMain": "https://v0.dev",
+    "username_claimed": "t3dotgg"
+  },
+  "HackerEarth": {
+    "errorType": "status_code",
+    "url": "https://www.hackerearth.com/@{}",
+    "urlMain": "https://www.hackerearth.com/",
+    "username_claimed": "jason",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
+  "Minecraft Forums": {
+    "errorMsg": "Not found",
+    "errorType": "message",
+    "url": "https://minecraftforum.net/members/{}",
+    "urlMain": "https://minecraftforum.net",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
+  "Codeforces": {
+    "errorType": "status_code",
+    "errorUrl": "https://www.codeforces.com/",
+    "url": "https://www.codeforces.com/profile/{}",
+    "urlMain": "https://www.codeforces.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Archive Of Our Own": {
+    "errorType": "response_url",
+    "errorUrl": "https://archiveofourown.org/people/search",
+    "url": "https://archiveofourown.org/users/{}",
+    "urlMain": "https://archiveofourown.org",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldprobablyeverusethisusername"
+  },
+  "discord.bio": {
+    "errorMsg": "Profile not found.",
+    "errorType": "message",
+    "url": "https://discord.bio/p/{}",
+    "urlMain": "https://discord.bio/",
+    "username_claimed": "sin",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
+  "Change.org": {
+    "errorType": "status_code",
+    "url": "https://www.change.org/o/{}",
+    "urlMain": "https://www.change.org/",
+    "username_claimed": "changedotorg",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Pixabay": {
+    "errorType": "status_code",
+    "url": "https://pixabay.com/users/{}",
+    "urlMain": "https://pixabay.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Hashnode": {
+    "errorType": "status_code",
+    "url": "https://hashnode.com/@{}",
+    "urlMain": "https://hashnode.com/",
+    "username_claimed": "melwinalm",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Depop": {
+    "errorType": "status_code",
+    "url": "https://www.depop.com/{}",
+    "urlMain": "https://www.depop.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "mstdn.social": {
+    "errorType": "status_code",
+    "url": "https://mstdn.social/@{}",
+    "urlMain": "https://mstdn.social/",
+    "username_claimed": "MagicLike",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Codeforces": {
+    "errorType": "response_url",
+    "errorUrl": "https://codeforces.com/",
+    "url": "https://codeforces.com/profile/{}",
+    "urlMain": "https://codeforces.com/",
+    "username_claimed": "z1nc0r3",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "HuggingFace": {
+    "errorType": "status_code",
+    "url": "https://huggingface.co/{}",
+    "urlMain": "https://huggingface.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  
+  "Trovo": {
+    "errorMsg": "Uh Ohhh...",
+    "errorType": "message",
+    "url": "https://trovo.live/{}/",
+    "urlMain": "https://trovo.live",
+    "username_claimed": "Aimilios",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "eRepublik Wiki": {
+    "errorType": "status_code",
+    "url": "https://wiki.erepublik.com/index.php/User:{}",
+    "urlMain": "https://wiki.erepublik.com",
+    "username_claimed": "Democr1tus",
+    "username_unclaimed": "takeDrugsKillABear"
+  },
+  "Armor Games": {
+    "errorType": "status_code",
+    "url": "https://armorgames.com/user/{}",
+    "urlMain": "https://armorgames.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Game-Debate": {
+    "errorType": "status_code",
+    "url": "https://game-debate.com/profile/{}/",
+    "urlMain": "https://game-debate.com",
+    "username_claimed": "david988",
+    "username_unclaimed": "neverGonnaGiveYouUpNeverGonnaUseThisName"
+  },
+  "GNOME Extensions": {
+    "errorType": "response_url",
+    "url": "https://extensions.gnome.org/accounts/profile/{}",
+    "urlMain": "https://extensions.gnome.org",
+    "username_claimed": "fmuellner",
+    "username_unclaimed": "nopeThisUsernameIsStillNotUsed"
+  },
+  "eRepublik Wiki": {
+    "errorType": "status_code",
+    "url": "https://wiki.erepublik.com/index.php/User:{}",
+    "urlMain": "https://wiki.erepublik.com",
+    "username_claimed": "Democr1tus",
+    "username_unclaimed": "takeDrugsKillABear"
+  },
+  
+  "League of Legends Tracker": {
+    "errorType": "status_code",
+    "url": "https://tracker.gg/lol/profile/riot/NA/{}/overview",
+    "urlMain": "https://tracker.gg/lol/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "TrueSteamAchievements": {
+    "errorType": "status_code",
+    "url": "https://truesteamachievements.com/gamer/{}",
+    "urlMain": "https://truesteamachievements.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "no1one2would3ever4use5this6"
+  },
+  "OpenGameArt": {
+    "errorType": "status_code",
+    "url": "https://opengameart.org/users/{}",
+    "urlMain": "https://opengameart.org",
+    "username_claimed": "ski",
+    "username_unclaimed": "thisUserNameWillNeverBeUsed3"
+  },
+  "Dolap": {
+    "errorType": "status_code",
+    "url": "https://dolap.com/profil/{}/",
+    "urlMain": "https://dolab.com/",
+    "username_claimed": "burcakmeric",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tumblr": {
+    "errorType": "status_code",
+    "urlMain": "https://tumblr.com",
+    "url": "https://{}.tumblr.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "iFunny": {
+	"errorType": "response_url",
+	"errorUrl": "https://www.ifunny.co/user/{}",
+	"url": "https://www.ifunny.co/user/{}",
+	"urlMain": "https://www.ifunny.co/",
+	"username_claimed": "blue",
+	"username_unclaimed": "noonewouldeverusethis"
+  },
   "2Dimensions": {
     "errorType": "status_code",
     "url": "https://2Dimensions.com/a/{}",
@@ -33,6 +232,7 @@
   "8tracks": {
     "errorMsg": "This page has vanished",
     "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9_-]{3,15}$",
     "url": "https://8tracks.com/{}",
     "urlMain": "https://8tracks.com/",
     "username_claimed": "blue"
@@ -65,16 +265,14 @@
     "username_claimed": "blue"
   },
   "AdmireMe.Vip": {
-    "errorMsg": "Page Not Found",
-    "errorType": "message",
+    "errorType": "status_code",
     "isNSFW": true,
     "url": "https://admireme.vip/{}",
     "urlMain": "https://admireme.vip/",
     "username_claimed": "DemiDevil"
   },
   "Air Pilot Life": {
-    "errorMsg": "Oops! That page doesn\u2019t exist or is private",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://airlinepilot.life/u/{}",
     "urlMain": "https://airlinepilot.life/",
     "username_claimed": "chris"
@@ -109,6 +307,7 @@
   },
   "Amino": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9_]{3,20}$",
     "url": "https://aminoapps.com/u/{}",
     "urlMain": "https://aminoapps.com",
     "username_claimed": "blue"
@@ -142,8 +341,7 @@
     "username_claimed": "lio24d"
   },
   "Apple Discussions": {
-    "errorMsg": "The page you tried was not found. You may have used an outdated link or may have typed the address (URL) incorrectly.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://discussions.apple.com/profile/{}",
     "urlMain": "https://discussions.apple.com",
     "username_claimed": "jason"
@@ -162,6 +360,7 @@
       "The resource could not be found"
     ],
     "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9]{3,20}$",
     "url": "https://archive.org/details/@{}",
     "urlMain": "https://archive.org",
     "urlProbe": "https://archive.org/details/@{}?noscript=true",
@@ -186,8 +385,7 @@
     "username_claimed": "red"
   },
   "AskFM": {
-    "errorMsg": "Well, apparently not anymore.",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "^[a-zA-Z0-9_]{3,40}$",
     "url": "https://ask.fm/{}",
     "urlMain": "https://ask.fm/",
@@ -223,7 +421,7 @@
   "BOOTH": {
     "errorType": "response_url",
     "errorUrl": "https://booth.pm/",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.booth.pm/",
     "urlMain": "https://booth.pm/",
     "username_claimed": "blue"
@@ -261,6 +459,7 @@
   },
   "Bikemap": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9_-]{3,30}$",
     "url": "https://www.bikemap.net/en/u/{}/routes/created/",
     "urlMain": "https://www.bikemap.net/",
     "username_claimed": "bikemap"
@@ -385,14 +584,13 @@
   "Carbonmade": {
     "errorType": "response_url",
     "errorUrl": "https://carbonmade.com/fourohfour?domain={}.carbonmade.com",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.carbonmade.com",
     "urlMain": "https://carbonmade.com/",
     "username_claimed": "jenny"
   },
   "Career.habr": {
-    "errorMsg": "<h1>\u041e\u0448\u0438\u0431\u043a\u0430 404</h1>",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://career.habr.com/{}",
     "urlMain": "https://career.habr.com/",
     "username_claimed": "blue"
@@ -410,8 +608,7 @@
     "username_claimed": "ordnung"
   },
   "Chatujme.cz": {
-    "errorMsg": "Neexistujic\u00ed profil",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "^[a-zA-Z][a-zA-Z1-9_-]*$",
     "url": "https://profil.chatujme.cz/{}",
     "urlMain": "https://chatujme.cz/",
@@ -477,12 +674,378 @@
     "urlMain": "https://codeberg.org/",
     "username_claimed": "blue"
   },
+  "eBay":{
+    "errorType": "message",
+    "errorMsg": "this user was not found",
+    "regexCheck": "^[A-Za-z][A-Za-z\\d_]{5,14}$",
+    "url":"https://ebay.com/usr/{}",
+    "urlMain":"https://ebay.com/",
+    "username_claimed":"blue",
+    "username_unclaimed":"noonewouldeverusethis7"
+  },
+  "zoomit": {
+    "errorMsg": "\u0645\u062a\u0627\u0633\u0641\u0627\u0646\u0647 \u0635\u0641\u062d\u0647 \u06cc\u0627\u0641\u062a \u0646\u0634\u062f",
+    "errorType": "message",
+    "url": "https://www.zoomit.ir/user/{}",
+    "urlMain": "https://www.zoomit.ir",
+    "username_claimed": "kossher",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Youtube Channel": {
+    "errorType": "status_code",
+    "errorCode": 404,
+    "headers": {
+      "Cookie": "CONSENT=YES+cb.20210418-17-p0.it+FX+917; "
+    },
+    "url": "https://www.youtube.com/c/{}",
+    "urlMain": "https://www.youtube.com",
+    "username_claimed": "mkbhd",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Youtube User": {
+    "errorType": "status_code",
+    "errorCode": 404,
+    "headers": {
+      "Cookie": "CONSENT=YES+cb.20210418-17-p0.it+FX+917; "
+    },
+    "url": "https://www.youtube.com/user/{}",
+    "urlMain": "https://www.youtube.com",
+    "username_claimed": "pewdiepie",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Justpaste": {
+    "errorType": "status_code",
+    "url": "https://justpaste.it/u/{}",
+    "urlMain": "https://justpaste.it",
+    "username_claimed": "test",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Eksi Sozluk": {
+    "errorMsg": "bulamad\u0131k o kullan\u0131c\u0131y\u0131",
+    "errorType": "message",
+    "url": "https://eksisozluk2023.com/biri/{}",
+    "urlMain": "https://eksisozluk2023.com/",
+    "username_claimed": "blue"
+  },
+  "Parler":{
+    "errorType":"status_code",
+    "request_method": "GET",
+    "url":"https://api.parler.com/v0/public/user/{}",
+    "urlMain":"https://parler.com/",
+    "username_claimed":"test",
+    "username_unclaimed":"noonewouldeverusethis7"
+  },
   "Codecademy": {
     "errorMsg": "This profile could not be found",
     "errorType": "message",
     "url": "https://www.codecademy.com/profiles/{}",
     "urlMain": "https://www.codecademy.com/",
     "username_claimed": "blue"
+  },
+  "skroutz": {
+    "errorType": "status_code",
+    "url": "https://www.skroutz.gr/u/{}",
+    "urlMain": "https://www.skroutz.gr/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis77"
+  },
+  "VideoGameGeek": {
+    "errorMsg": "Error: User does not exist.",
+    "errorType": "message",
+    "url": "https://videogamegeek.com/user/{}",
+    "urlMain": "https://videogamegeek.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "RPGGeek": {
+    "errorMsg": "Error: User does not exist.",
+    "errorType": "message",
+    "url": "https://rpggeek.com/user/{}",
+    "urlMain": "https://rpggeek.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Ludopedia": {
+    "errorMsg": "Usuário não encontrado.",
+    "errorType": "message",
+    "url": "https://ludopedia.com.br/usuario/{}",
+    "urlMain": "https://ludopedia.com.br",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "forexfactory": {
+    "errorType": "status_code",
+    "url": "https://www.forexfactory.com/{}",
+    "urlMain": "https://www.forexfactory.com/",
+    "username_claimed": "blue"
+  },
+  "metalsmine": {
+    "errorType": "status_code",
+    "url": "https://www.metalsmine.com/{}",
+    "urlMain": "https://www.metalsmine.com/",
+    "username_claimed": "blue"
+  },
+  "energyexch": {
+    "errorType": "status_code",
+    "url": "https://www.energyexch.com/{}",
+    "urlMain": "https://www.energyexch.com/",
+    "username_claimed": "blue"
+  },
+  "Rule34Paheal": {
+    "errorMsg": "If you typed the ID by hand, try again; if you came from a link on this site, it might be bug report time...",
+    "errorType": "message",
+    "isNSFW": true,
+    "url": "https://rule34.paheal.net/user/{}",
+    "urlMain": "https://rule34.paheal.net/",
+    "username_claimed": "John",
+    "username_unclaimed": "noonewouldeverusethis778"
+  },
+  "Tilde.club": {
+    "errorType": "status_code",
+    "url": "https://tilde.club/~{}",
+    "urlMain": "https://tilde.club/",
+    "regexCheck": "^[a-z0-9]+$",
+    "username_claimed": "ape",
+    "username_unclaimed": "barkbark"
+  },
+  "TripAdvisor": {
+    "errorType": "status_code",
+    "errorCode": "404",
+    "headers": {
+      "User-agent": "PostmanRuntime/7.29.2"
+    },
+    "url": "https://tripadvisor.com/members/{}",
+    "urlMain": "https://tripadvisor.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "WoW Forums": {
+    "errorMsg": "Page not found",
+    "errorType": "message",
+    "url": "https://us.forums.blizzard.com/en/wow/u/{}/summary",
+    "urlMain": "https://us.forums.blizzard.com/en/wow/",
+    "username_claimed": "rive-turalyon",
+    "username_unclaimed": "fpwiefugij"
+  },
+  "MusicBrainz": {
+    "errorMsg": "Editor not found",
+    "errorType": "message",
+    "url": "https://musicbrainz.org/user/{}",
+    "urlMain": "https://musicbrainz.org/",
+    "username_claimed": "musicbrainz"
+  },
+  "Neocities": {
+    "errorMsg": "Not Found",
+    "errorType": "message",
+    "url": "https://{}.neocities.org",
+    "urlMain": "https://neocities.org/",
+    "regexCheck": "^[a-zA-Z0-9]+(-[a-zA-Z0-9]+)*$",
+    "username_claimed": "that1archive",
+    "username_unclaimed": "propropropropropro"
+  },
+  "HackThisSite": {
+    "errorMsg": "Error!",
+    "errorType": "message",
+    "url": "https://hackthissite.org/user/view/{}",
+    "urlMain": "https://hackthissite.org/",
+    "username_claimed": "ace",
+    "username_unclaimed": "vkjwlekf"
+  },
+  "cryptocraft": {
+    "errorType": "status_code",
+    "url": "https://www.cryptocraft.com/{}",
+    "urlMain": "https://www.cryptocraft.com/",
+    "username_claimed": "blue"
+  },
+  "myfxbook": {
+    "errorType": "status_code",
+    "url": "https://www.myfxbook.com/members/{}",
+    "urlMain": "https://www.myfxbook.com/",
+    "username_claimed": "blue"
+  },
+  "League of Legends": {
+    "errorType": "status_code",
+    "url": "https://lolprofile.net/summoner/world/{}",
+    "urlMain": "https://lolprofile.net/",
+    "username_claimed": "Faker"
+  },
+  "JSFiddle": {
+    "errorMsg": "That page doesn't exist.",
+    "errorType": "status_code",
+    "url": "https://jsfiddle.net/user/{}",
+    "urlMain": "https://jsfiddle.net/",
+    "username_claimed": "red",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.social": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.social/{}",
+    "urlMain": "https://pixelfed.social",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.de": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.de/{}",
+    "urlMain": "https://pixelfed.de",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.tokyo": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.tokyo/{}",
+    "urlMain": "https://pixelfed.tokyo",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.se": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.se/{}",
+    "urlMain": "https://pixelfed.se",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.uno": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.uno/{}",
+    "urlMain": "https://pixelfed.uno",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.nz": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.nz/{}",
+    "urlMain": "https://pixelfed.nz",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Jupyter Community Forum": {
+    "errorMsg": "Oops! That page doesn’t exist or is private.",
+    "errorType": "message",
+    "url": "https://discourse.jupyter.org/u/{}/summary",
+    "urlMain": "https://discourse.jupyter.org",
+    "username_claimed": "choldgraf",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
+  "Python.org Discussions": {
+    "errorMsg": "Oops! That page doesn’t exist or is private.",
+    "errorType": "message",
+    "url": "https://discuss.python.org/u/{}/summary",
+    "urlMain": "https://discuss.python.org",
+    "username_claimed": "python",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Ruby Forums": {
+    "errorMsg": "Oops! That page doesn’t exist or is private.",
+    "errorType": "message",
+    "url": "https://ruby-forum.com/u/{}/summary",
+    "urlMain": "https://ruby-forums.com",
+    "username_claimed": "rishard",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Valorant Forums": {
+    "errorMsg": "The page you requested could not be found.",
+    "errorType": "message",
+    "url": "https://valorantforums.com/u/{}",
+    "urlMain": "https://valorantforums.com",
+    "username_claimed": "Wolves",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "cplusplus": {
+    "errorType": "status_code",
+    "url": "https://cplusplus.com/user/{}",
+    "urlMain": "https://cplusplus.com",
+    "username_claimed": "mbozzi",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "pixelfed.uk": {
+    "errorType": "status_code",
+    "url": "https://pixelfed.uk/{}",
+    "urlMain": "https://pixelfed.uk",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tiendanube": {
+    "url": "https://{}.mitiendanube.com/",
+    "urlMain": "https://www.tiendanube.com/",
+    "errorType": "status_code",
+    "username_claimed": "blue"
+  },
+  "Topcoder": {
+    "errorType": "status_code",
+    "url": "https://profiles.topcoder.com/{}/",
+    "urlMain": "https://topcoder.com/",
+    "username_claimed": "USER",
+    "urlProbe": "https://api.topcoder.com/v5/members/{}",
+    "regexCheck": "[a-zA-Z0-9 ]"
+  },
+  "Empretienda AR": {
+    "errorType": "status_code",
+    "url": "https://{}.empretienda.com.ar",
+    "urlMain": "https://empretienda.com",
+    "username_claimed": "camalote"
+  },
+  "BoardGameGeek": {
+    "errorMsg": "Error: User does not exist.",
+    "errorType": "message",
+    "url": "https://boardgamegeek.com/user/{}",
+    "urlMain": "https://boardgamegeek.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "makromusic": {
+    "errorType": "status_code",
+    "url": "https://makromusic.com/u/{}",
+    "urlMain": "https://makromusic.com/",
+    "username_claimed": "makromusic"
+  },
+  "Picsart": {
+    "errorType": "status_code",
+    "url": "https://picsart.com/u/{}",
+    "urlMain": "https://picsart.com/",
+    "username_claimed": "hxfcfe7m"
+  },
+  "Coding Ninjas": {
+    "errorType": "status_code",
+    "url": "https://www.codingninjas.com/studio/profile/{}",
+    "urlMain": "https://www.codingninjas.com/",
+    "username_claimed": "example"
+  },
+  "Tome": {
+    "errorType": "status_code",
+    "url": "https://tome.app/{}",
+    "urlMain": "https://tome.app/",
+    "username_claimed": "samyakworkspace-374"
+  },
+  "OldSchoolRunescape": {
+    "errorMsg": "No player",
+    "errorType": "message",
+    "url": "https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal.ws?user1={}",
+    "urlMain": "https://oldschool.runescape.com/",
+    "username_claimed": "zezima",
+    "username_unclaimed": "cow1337killer"
+  },
+  "Manifold": {
+    "errorType": "status_code",
+    "url": "https://manifold.markets/api/v0/user/{}",
+    "urlMain": "https://manifold.markets/",
+    "username_claimed": "ChrisCanas",
+    "username_unclaimed": "nooneprobablywilltakethisusernamesousingittocheck"
+  },
+  "ManifoldMarkets": {
+    "errorType": "status_code",
+    "url": "https://manifold.markets/{}",
+    "urlMain": "https://manifold.markets/",
+    "username_claimed": "ManifoldMarkets",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Glitch":{
+    "errorMsg":"We didn\u2019t find",
+    "errorType":"message",
+    "url":"https://glitch.com/@{}",
+    "urlMain":"https://glitch.com/",
+    "username_claimed":"blue",
+    "username_unclaimed":"noonewouldeverusethis7"
   },
   "Codechef": {
     "errorType": "response_url",
@@ -537,8 +1100,7 @@
     "username_claimed": "blue"
   },
   "Contently": {
-    "errorType": "response_url",
-    "errorUrl": "https://contently.com",
+    "errorType": "status_code",
     "regexCheck": "^[a-zA-Z][a-zA-Z0-9_-]*$",
     "url": "https://{}.contently.com/",
     "urlMain": "https://contently.com/",
@@ -559,7 +1121,7 @@
   },
   "Crevado": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.crevado.com",
     "urlMain": "https://crevado.com/",
     "username_claimed": "blue"
@@ -577,9 +1139,570 @@
     "urlMain": "https://community.cryptomator.org/",
     "username_claimed": "michael"
   },
-  "Cults3D": {
-    "errorMsg": "Oh dear, this page is not working!",
+    "161 Social": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.161.social/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.161.social/u/{}",
+    "urlMain": "https://lemmy.161.social/",
+    "username_claimed": "admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Baraza": {
+    "errorType": "response_url",
+    "errorUrl": "https://baraza.africa/404?err=couldnt_find_that_username_or_email",
+    "url": "https://baraza.africa/u/{}",
+    "urlMain": "https://baraza.africa/",
+    "username_claimed": "publictech",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Beranda": {
+    "errorType": "status_code",
+    "url": "https://beranda.app/{}",
+    "urlMain": "https://beranda.app/",
+    "username_claimed": "login",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "BitBucket Pages": {
+    "errorType": "status_code",
+    "url": "https://{}.bitbucket.io",
+    "urlMain": "https://bitbucket.org/",
+    "username_claimed": "5ky1ar",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Bitchute": {
+    "errorType": "status_code",
+    "url": "https://www.bitchute.com/channel/{}",
+    "urlMain": "https://www.bitchute.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Bitwave": {
+    "errorMsg": "Could not find channel",
     "errorType": "message",
+    "url": "https://bitwave.tv/{}",
+    "urlMain": "https://bitwave.tv/",
+    "username_claimed": "bitwave",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Byte": {
+    "errorType": "status_code",
+    "url": "https://byte.co/@{}",
+    "urlMain": "https://byte.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Carrd": {
+    "errorType": "status_code",
+    "url": "https://{}.carrd.co/",
+    "urlMain": "https://carrd.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "CashApp": {
+    "errorType": "status_code",
+    "url": "https://cash.app/${}",
+    "urlMain": "https://cash.app/",
+    "username_claimed": "SkylarDudash",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Causually Cat": {
+    "errorType": "response_url",
+    "errorUrl": "https://vote.casually.cat/404?err=couldnt_find_that_username_or_email",
+    "url": "https://vote.casually.cat/u/{}",
+    "urlMain": "https://vote.casually.cat/",
+    "username_claimed": "Casuallynoted",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Codeberg": {
+    "errorType": "status_code",
+    "url": "https://codeberg.org/{}",
+    "urlMain": "https://codeberg.org/",
+    "username_claimed": "codeberg",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Codeberg Pages": {
+    "errorMsg": "this user/organization does not have codeberg pages",
+    "errorType": "message",
+    "url": "https://{}.codeberg.page",
+    "urlMain": "https://codeberg.page/",
+    "username_claimed": "infosechandbook",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio1": {
+    "errorMsg": "404 Error",
+    "errorType": "message",
+    "url": "http://{}.ctcin.bio",
+    "urlMain": "https://ctcin.bio/",
+    "username_claimed": "warroom",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio2": {
+    "errorMsg": "404 Error",
+    "errorType": "message",
+    "url": "https://{}.contactin.bio",
+    "urlMain": "https://contactin.bio/",
+    "username_claimed": "redcon1",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio3": {
+    "errorMsg": "404 Error",
+    "errorType": "message",
+    "url": "http://{}.contactinbio.com",
+    "urlMain": "https://contactinbio.com/",
+    "username_claimed": "b2sims",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Coub": {
+    "errorType": "status_code",
+    "url": "https://coub.com/{}",
+    "urlMain": "https://coub.com/",
+    "username_claimed": "tos",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "DLive": {
+    "errorMsg": "Channel not found",
+    "errorType": "message",
+    "url": "https://dlive.tv/{}",
+    "urlMain": "https://dlive.tv/",
+    "username_claimed": "PewDiePie",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Deep Space 9": {
+    "errorType": "response_url",
+    "errorUrl": "https://ds9.lemmy.ml/404?err=couldnt_find_that_username_or_email",
+    "url": "https://ds9.lemmy.ml/u/{}",
+    "urlMain": "https://ds9.lemmy.ml/",
+    "username_claimed": "dess_ds9",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Deets": {
+    "errorMsg": "Profile not found",
+    "errorType": "message",
+    "url": "https://deets.co/{}",
+    "urlMain": "https://deets.co/",
+    "username_claimed": "privacy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Diplink": {
+    "errorType": "status_code",
+    "url": "https://dip.link/{}",
+    "urlMain": "https://dip.link/",
+    "username_claimed": "en",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Ejimoo": {
+    "errorType": "status_code",
+    "url": "https://app.ejimoo.com/users/{}",
+    "urlMain": "https://ejimoo.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Enterprise": {
+    "errorType": "response_url",
+    "errorUrl": "https://enterprise.lemmy.ml/404?err=couldnt_find_that_username_or_email",
+    "url": "https://enterprise.lemmy.ml/u/{}",
+    "urlMain": "https://enterprise.lemmy.ml/",
+    "username_claimed": "nutomic",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Epic Bio": {
+    "errorType": "status_code",
+    "url": "https://epicb.io/{}",
+    "urlMain": "https://epicb.io/",
+    "username_claimed": "login",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Flowpage": {
+    "errorMsg": "<title>Flowpage | Not Found</title>",
+    "errorType": "message",
+    "url": "https://www.flow.page/{}",
+    "urlMain": "https://www.flow.page/",
+    "username_claimed": "gypsycrusader88",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Gab": {
+    "errorType": "status_code",
+    "url": "https://gab.com/{}",
+    "urlMain": "https://gab.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Gab TV": {
+    "errorMsg": "TV Channel does not exist",
+    "errorType": "message",
+    "url": "https://tv.gab.com/channel/{}",
+    "urlMain": "https://tv.gab.com/",
+    "username_claimed": "ipot1776",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Github Pages": {
+    "errorType": "status_code",
+    "url": "https://{}.github.io",
+    "urlMain": "https://pages.github.com/",
+    "username_claimed": "5ky1ar",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Gitlab Pages": {
+    "errorType": "status_code",
+    "url": "https://{}.gitlab.io",
+    "urlMain": "https://about.gitlab.com/stages-devops-lifecycle/pages/",
+    "username_claimed": "5ky1ar",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Glasgow Social": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.glasgow.social/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.glasgow.social/u/{}",
+    "urlMain": "https://lemmy.glasgow.social/",
+    "username_claimed": "seven",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Hype Link": {
+    "errorType": "status_code",
+    "url": "https://hypel.ink/{}",
+    "urlMain": "https://hypel.ink/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Hyprr": {
+    "errorMsg": "That didn\u2019t work",
+    "errorType": "message",
+    "url": "https://hyprr.com/profile/{}",
+    "urlMain": "https://hyprr.com/",
+    "username_claimed": "hyprr",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ImgBB": {
+    "errorType": "response_url",
+    "errorUrl": "https://imgbb.com/",
+    "url": "https://{}.imgbb.com",
+    "urlMain": "https://imgbb.com/",
+    "username_claimed": "es",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Into Bio": {
+    "errorMsg": "No Page With This Username",
+    "errorType": "message",
+    "url": "https://into.bio/{}",
+    "urlMain": "https://into.bio/",
+    "username_claimed": "terms",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Jotlink": {
+    "errorType": "status_code",
+    "url": "https://jot.link/{}",
+    "urlMain": "https://jot.link/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "LeClick": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.leclick.io/",
+    "url": "https://{}.leclick.io",
+    "urlMain": "https://leclick.io/",
+    "username_claimed": "ericvialle",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lemmy": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.ml/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.ml/u/{}",
+    "urlMain": "https://lemmy.ml/",
+    "username_claimed": "dessalines",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lemmy Basque": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.eus/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.eus/u/{}",
+    "urlMain": "https://lemmy.eus/",
+    "username_claimed": "lemmy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lemmy Canada": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.ca/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.ca/u/{}",
+    "urlMain": "https://lemmy.ca/",
+    "username_claimed": "superkinetix",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lemmy Cat": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.cat/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.cat/u/{}",
+    "urlMain": "https://lemmy.cat/",
+    "username_claimed": "admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lemmy TeDomum": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmy.tedomum.net/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmy.tedomum.net/u/{}",
+    "urlMain": "https://lemmy.tedomum.net/",
+    "username_claimed": "admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lemmygrad": {
+    "errorType": "response_url",
+    "errorUrl": "https://lemmygrad.ml/404?err=couldnt_find_that_username_or_email",
+    "url": "https://lemmygrad.ml/u/{}",
+    "urlMain": "https://lemmygrad.ml/",
+    "username_claimed": "AnarchoBolshevik",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Liink": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.liinks.co/i/not-found?type=NO_USER&slug={}",
+    "url": "https://www.liinks.co/{}",
+    "urlMain": "https://www.liinks.co/",
+    "username_claimed": "flabbergast",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "LinkTube": {
+    "errorType": "status_code",
+    "url": "https://linktube.com/{}",
+    "urlMain": "https://linktube.com/",
+    "username_claimed": "privacy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Linkkle": {
+    "errorType": "status_code",
+    "url": "https://linkkle.com/{}",
+    "urlMain": "https://linkkle.com/",
+    "username_claimed": "paul",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Linkrin": {
+    "errorType": "status_code",
+    "url": "https://linkr.in/{}",
+    "urlMain": "https://linkr.in/",
+    "username_claimed": "trapnation",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Linktree": {
+    "errorType": "status_code",
+    "url": "https://linktr.ee/{}",
+    "urlMain": "https://linktr.ee/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Litelink": {
+    "errorType": "status_code",
+    "url": "https://litelink.at/{}",
+    "urlMain": "https://litelink.at/",
+    "username_claimed": "badges",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lnk.Bio": {
+    "errorType": "response_url",
+    "errorUrl": "https://lnk.bio/404/",
+    "url": "https://lnk.bio/{}",
+    "urlMain": "https://lnk.bio/",
+    "username_claimed": "agency",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ManyLink": {
+    "errorMsg": "Couldn't find a profile named",
+    "errorType": "message",
+    "url": "https://many.link/{}",
+    "urlMain": "https://many.link/",
+    "username_claimed": "jespr",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Neocities": {
+    "errorType": "status_code",
+    "url": "https://{}.neocities.org",
+    "urlMain": "https://neocities.org/",
+    "username_claimed": "example",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "One Profile": {
+    "errorType": "status_code",
+    "url": "https://{}.oneprofile.page",
+    "urlMain": "https://oneprofile.page/",
+    "username_claimed": "docs",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "PixelHub": {
+    "errorType": "response_url",
+    "errorUrl": "https://content.pixelhub.me/home/?login=false",
+    "url": "https://pixelhub.me/{}",
+    "urlMain": "https://pixelhub.me/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Ruqqus": {
+    "errorType": "status_code",
+    "url": "https://ruqqus.com/@{}",
+    "urlMain": "https://ruqqus.com/",
+    "username_claimed": "Admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Saidit": {
+    "errorType": "status_code",
+    "url": "https://saidit.net/user/{}",
+    "urlMain": "https://saidit.net/",
+    "username_claimed": "Admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Sharely": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.sharely.in/404/",
+    "url": "https://sharely.in/{}",
+    "urlMain": "https://sharely.in/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Shorby": {
+    "errorType": "status_code",
+    "url": "https://shor.by/{}",
+    "urlMain": "https://shorby.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Shutterlink": {
+    "errorType": "status_code",
+    "url": "https://shutter.link/{}",
+    "urlMain": "https://shutter.link/",
+    "username_claimed": "hello",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Socialinks": {
+    "errorType": "status_code",
+    "url": "https://socialinks.org/{}",
+    "urlMain": "https://socialinks.org/",
+    "username_claimed": "page-demo",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Solo": {
+    "errorType": "status_code",
+    "url": "https://solo.to/{}",
+    "urlMain": "https://solo.to/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Sourcehut": {
+    "errorType": "status_code",
+    "url": "https://sr.ht/~{}",
+    "urlMain": "https://sr.ht/",
+    "username_claimed": "sircmpwn",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Spreaker": {
+    "errorType": "status_code",
+    "url": "https://www.spreaker.com/user/{}",
+    "urlMain": "https://spreaker.com/",
+    "username_claimed": "antisocialmedia",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Squarespace": {
+    "errorType": "status_code",
+    "url": "https://{}.squarespace.com",
+    "urlMain": "https://squarespace.com/",
+    "username_claimed": "support",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Surge": {
+    "errorType": "status_code",
+    "url": "https://{}.surge.sh",
+    "urlMain": "https://surge.sh/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "The Donald": {
+    "errorMsg": "That user could not be found",
+    "errorType": "message",
+    "url": "https://thedonald.win/u/{}",
+    "urlMain": "https://thedonald.win/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tipsolink": {
+    "errorMsg": "Sorry, this user does not exist",
+    "errorType": "message",
+    "url": "https://tipso.link/{}",
+    "urlMain": "https://tipso.link/",
+    "username_claimed": "privacy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Trovo": {
+    "errorMsg": "The page you were looking for does not exist",
+    "errorType": "message",
+    "url": "https://trovo.live/{}",
+    "urlMain": "https://trovo.live/",
+    "username_claimed": "DeadMomAlive",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tugify": {
+    "errorType": "status_code",
+    "url": "https://tugify.com/{}",
+    "urlMain": "https://tugify.com/",
+    "username_claimed": "demo",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "URLTree": {
+    "errorMsg": "No Links",
+    "errorType": "message",
+    "url": "https://urltr.ee/{}",
+    "urlMain": "https://urltr.ee/",
+    "username_claimed": "privacy.php",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Unsilenced Voice": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.unsilencedvoice.com/",
+    "url": "https://www.unsilencedvoice.com/p/{}",
+    "urlMain": "https://www.unsilencedvoice.com/",
+    "username_claimed": "Anon",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Voyager": {
+    "errorType": "response_url",
+    "errorUrl": "https://voyager.lemmy.ml/404?err=couldnt_find_that_username_or_email",
+    "url": "https://voyager.lemmy.ml/u/{}",
+    "urlMain": "https://voyager.lemmy.ml/",
+    "username_claimed": "nutomic",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Weebly": {
+    "errorType": "status_code",
+    "url": "https://{}.weebly.com",
+    "urlMain": "https://weebly.com/",
+    "username_claimed": "example",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "WorldTruthMX": {
+    "errorType": "status_code",
+    "url": "https://www.worldtruth.online/{}",
+    "urlMain": "https://www.worldtruth.online/",
+    "username_claimed": "Khan69",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "WorldTruthVideo": {
+    "errorType": "response_url",
+    "errorUrl": "https://worldtruthvideos.org/",
+    "url": "https://worldtruthvideos.org/@{}",
+    "urlMain": "https://worldtruthvideos.org/",
+    "username_claimed": "Tors_Hammer",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "c1.biz": {
+    "errorType": "status_code",
+    "url": "http://{}.c1.biz",
+    "urlMain": "https://biz.nf/",
+    "username_claimed": "example",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "lnks.to": {
+    "errorType": "status_code",
+    "url": "https://lnks.to/{}",
+    "urlMain": "https://lnks.to/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Cults3D": {
+    "errorType": "status_code",
     "url": "https://cults3d.com/en/users/{}/creations",
     "urlMain": "https://cults3d.com/en",
     "username_claimed": "brown"
@@ -614,8 +1737,7 @@
     "username_claimed": "blue"
   },
   "Dealabs": {
-    "errorMsg": "La page que vous essayez",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "[a-z0-9]{4,16}",
     "url": "https://www.dealabs.com/profile/{}",
     "urlMain": "https://www.dealabs.com/",
@@ -636,6 +1758,7 @@
   },
   "Discord": {
     "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9_]{2,32}$",
     "url": "https://discord.com",
     "urlMain": "https://discord.com/",
     "urlProbe": "https://discord.com/api/v9/unique-username/username-attempt-unauthed",
@@ -672,8 +1795,7 @@
     "username_claimed": "blue"
   },
   "Dribbble": {
-    "errorMsg": "Whoops, that page is gone.",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "^[a-zA-Z][a-zA-Z0-9_-]*$",
     "url": "https://dribbble.com/{}",
     "urlMain": "https://dribbble.com/",
@@ -712,6 +1834,7 @@
   },
   "Exposure": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9-]{1,63}$",
     "url": "https://{}.exposure.co/",
     "urlMain": "https://exposure.co/",
     "username_claimed": "jonasjacobsson"
@@ -760,7 +1883,20 @@
     "request_method": "POST",
     "request_payload": {
       "username": "{}"
-    },
+  },
+  "AtCoder": {
+    "errorType": "status_code",
+    "url": "https://atcoder.jp/users/{}",
+    "urlMain": "https://atcoder.jp/",
+    "username_claimed": "tourist",
+    "username_unclaimed": "iuaefnuaenfoiaenfiaenfaeojnfiaejfnoaeifn"
+  },
+  "CssBattle": {
+    "errorType": "status_code",
+    "url": "https://cssbattle.dev/player/{}",
+    "urlMain": "https://cssbattle.dev",
+    "username_claimed": "asdf"
+  },
     "url": "https://www.fiverr.com/{}",
     "urlMain": "https://www.fiverr.com/",
     "urlProbe": "https://www.fiverr.com/validate_username",
@@ -787,8 +1923,7 @@
     "username_claimed": "blue"
   },
   "Football": {
-    "errorMsg": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0441 \u0442\u0430\u043a\u0438\u043c \u0438\u043c\u0435\u043d\u0435\u043c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.rusfootball.info/user/{}/",
     "urlMain": "https://www.rusfootball.info/",
     "username_claimed": "solo87"
@@ -815,8 +1950,7 @@
     "username_claimed": "blue"
   },
   "Freelance.habr": {
-    "errorMsg": "<div class=\"icon_user_locked\"></div>",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "^((?!\\.).)*$",
     "url": "https://freelance.habr.com/freelancers/{}",
     "urlMain": "https://freelance.habr.com/",
@@ -903,7 +2037,7 @@
   },
   "GitBook": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.gitbook.io/",
     "urlMain": "https://gitbook.com/",
     "username_claimed": "gitbook"
@@ -942,11 +2076,10 @@
     "username_claimed": "blue"
   },
   "Google Play": {
-    "errorMsg": "the requested URL was not found on this server",
-    "errorType": "message",
-    "url": "https://play.google.com/store/apps/developer?id={}",
+    "errorType": "status_code",
+    "url": "https://play.google.com/store/apps/developer?id={}}",
     "urlMain": "https://play.google.com",
-    "username_claimed": "GitHub"
+    "username_claimed": "Google+LLC"
   },
   "Gradle": {
     "errorType": "status_code",
@@ -970,8 +2103,7 @@
     "username_claimed": "blue"
   },
   "Gumroad": {
-    "errorMsg": "Page not found (404) - Gumroad",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "^[^.]*?$",
     "url": "https://www.gumroad.com/{}",
     "urlMain": "https://www.gumroad.com/",
@@ -985,6 +2117,7 @@
   },
   "HackTheBox": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9_]{3,20}$",
     "url": "https://forum.hackthebox.eu/profile/{}",
     "urlMain": "https://forum.hackthebox.eu/",
     "username_claimed": "angar"
@@ -1022,8 +2155,7 @@
     "username_claimed": "blue"
   },
   "HackerOne": {
-    "errorMsg": "Page not found",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://hackerone.com/{}",
     "urlMain": "https://hackerone.com/",
     "username_claimed": "stok"
@@ -1069,8 +2201,7 @@
     "username_claimed": "red"
   },
   "Houzz": {
-    "errorMsg": "The page you requested was not found.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://houzz.com/user/{}",
     "urlMain": "https://houzz.com/",
     "username_claimed": "blue"
@@ -1091,6 +2222,7 @@
   "HudsonRock": {
     "errorMsg": "No results",
     "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9]{4,20}$",
     "url": "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username={}",
     "urlMain": "https://hudsonrock.com",
     "username_claimed": "testadmin"
@@ -1116,12 +2248,11 @@
     "username_claimed": "thefourCraft"
   },
   "Image Fap": {
-    "errorMsg": "Not found",
-    "errorType": "message",
+    "errorType": "status_code",
     "isNSFW": true,
     "url": "https://www.imagefap.com/profile/{}",
     "urlMain": "https://www.imagefap.com/",
-    "username_claimed": "blue"
+    "username_claimed": "Anony-Mouse"
   },
   "ImgUp.cz": {
     "errorType": "status_code",
@@ -1173,7 +2304,7 @@
   },
   "Itch.io": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.itch.io/",
     "urlMain": "https://itch.io/",
     "username_claimed": "blue"
@@ -1194,7 +2325,7 @@
   },
   "Jimdo": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.jimdosite.com",
     "urlMain": "https://jimdosite.com/",
     "username_claimed": "jenny"
@@ -1231,20 +2362,20 @@
   },
   "Kick": {
     "__comment__": "Cloudflare. Only viable when proxied.",
-    "errorMsg": "Not Found",
+    "errorMsg": "Oops, something went wrong",
     "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9_]{3,15}$",
     "url": "https://kick.com/{}",
     "urlMain": "https://kick.com/",
     "urlProbe": "https://kick.com/api/v2/channels/{}",
     "username_claimed": "blue"
   },
   "Kik": {
-    "errorMsg": "The page you requested was not found",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://kik.me/{}",
     "urlMain": "http://kik.me/",
     "urlProbe": "https://ws2.kik.com/user/{}",
-    "username_claimed": "blue"
+    "username_claimed": "KikTeam"
   },
   "Kongregate": {
     "errorType": "status_code",
@@ -1282,8 +2413,7 @@
     "username_claimed": "blue"
   },
   "Letterboxd": {
-    "errorMsg": "Sorry, we can\u2019t find the page you\u2019ve requested.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://letterboxd.com/{}",
     "urlMain": "https://letterboxd.com/",
     "username_claimed": "blue"
@@ -1291,16 +2421,16 @@
   "LibraryThing": {
     "errorMsg": "Catalog your books online",
     "errorType": "message",
+    "regexCheck": "^[a-zA-Z0-9_-]{3,20}$",
     "url": "https://www.librarything.com/profile/{}",
     "urlMain": "https://www.librarything.com/",
     "username_claimed": "blue"
   },
   "Lichess": {
-    "errorMsg": "Page not found!",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://lichess.org/@/{}",
     "urlMain": "https://lichess.org",
-    "username_claimed": "blue"
+    "username_claimed": "bob"
   },
   "LinkedIn": {
     "errorType": "status_code",
@@ -1369,8 +2499,7 @@
     "username_claimed": "mapify"
   },
   "Medium": {
-    "errorMsg": "<body",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://medium.com/@{}",
     "urlMain": "https://medium.com/",
     "urlProbe": "https://medium.com/feed/@{}",
@@ -1443,8 +2572,7 @@
     "username_claimed": "blue"
   },
   "NICommunityForum": {
-    "errorMsg": "The page you were looking for could not be found.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://community.native-instruments.com/profile/{}",
     "urlMain": "https://www.native-instruments.com/forum/",
     "username_claimed": "jambert"
@@ -1510,8 +2638,8 @@
     "username_claimed": "goku"
   },
   "NitroType": {
-    "errorMsg": "<title>Nitro Type | Competitive Typing Game | Race Your Friends</title>",
-    "errorType": "message",
+    "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9_]{3,15}$",
     "url": "https://www.nitrotype.com/racer/{}",
     "urlMain": "https://www.nitrotype.com/",
     "username_claimed": "jianclash"
@@ -1577,8 +2705,7 @@
     "username_claimed": "psr"
   },
   "Pastebin": {
-    "errorMsg": "Not Found (#404)",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://pastebin.com/u/{}",
     "urlMain": "https://pastebin.com/",
     "username_claimed": "blue"
@@ -1650,8 +2777,7 @@
     "username_claimed": "swiftstickler"
   },
   "Polymart": {
-    "errorType": "response_url",
-    "errorUrl": "https://polymart.org/user/-1",
+    "errorType": "status_code",
     "url": "https://polymart.org/user/{}",
     "urlMain": "https://polymart.org/",
     "username_claimed": "craciu25yt"
@@ -1663,12 +2789,25 @@
     "urlMain": "https://pornhub.com/",
     "username_claimed": "blue"
   },
+  "VLR": {
+    "errorType": "status_code",
+    "url": "https://www.vlr.gg/user/{}",
+    "urlMain": "https://www.vlr.gg",
+    "username_claimed": "optms"
+  },
   "ProductHunt": {
-    "errorMsg": "We seem to have lost this page",
-    "errorType": "message",
+    "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9]{5,30}$",
     "url": "https://www.producthunt.com/@{}",
     "urlMain": "https://www.producthunt.com/",
     "username_claimed": "jenny"
+  },
+  "DigitalSpy": {
+    "errorMsg": "The page you were looking for could not be found.",
+    "errorType": "message",
+    "url": "https://forums.digitalspy.com/profile/{}",
+    "urlMain": "https://forums.digitalspy.com/",
+    "username_claimed": "papita69"
   },
   "PromoDJ": {
     "errorType": "status_code",
@@ -1682,18 +2821,57 @@
     "urlMain": "https://pypi.org",
     "username_claimed": "Blue"
   },
+  "Atcoder": {
+    "errorType": "status_code",
+    "url": "https://atcoder.jp/users/{}",
+    "urlMain": "https://atcoder.jp/",
+    "username_claimed": "ksun48"
+  },
   "Rajce.net": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.rajce.idnes.cz/",
     "urlMain": "https://www.rajce.idnes.cz/",
     "username_claimed": "blue"
+  },
+  "Wakatime": {
+    "errorType": "status_code",
+    "regexCheck": "^[@a-zA-Z0-9._-]{1,}$",
+    "url": "https://wakatime.com/@{username}",
+    "urlMain": "https://wakatime.com/",
+    "username_claimed": "Vikranth3140"
+  },
+  "DailyDev":{
+    "errorType": "message",
+    "errorMsg":"Page not found.",
+    "url": "https://app.daily.dev/{}",
+    "urlMain": "https://app.daily.dev/",
+    "username_claimed": "nj05"
+  },
+  "udemy": {
+    "errorMsg": "Page not found",
+    "errorType": "message",
+    "url":"https://www.udemy.com/user/{}",
+    "urlMain": "https://www.udemy.com/",
+    "username_claimed": "adfadf"
   },
   "Rate Your Music": {
     "errorType": "status_code",
     "url": "https://rateyourmusic.com/~{}",
     "urlMain": "https://rateyourmusic.com/",
     "username_claimed": "blue"
+  },
+  "Rarible.com": {
+    "errorType": "status_code",
+    "url": "https://rarible.com/marketplace/api/v4/urls/{}",
+    "urlMain": "https://rarible.com/",
+    "username_claimed": "blue"
+  },
+  "Velog": {
+    "errorType": "status_code",
+    "url": "https://velog.io/@{}/posts",
+    "urlMain": "https://velog.io/",
+    "username_claimed": "qlgks1"
   },
   "Rclone Forum": {
     "errorType": "status_code",
@@ -1745,22 +2923,19 @@
     "username_claimed": "John_Smith"
   },
   "ReverbNation": {
-    "errorMsg": "Sorry, we couldn't find that page",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.reverbnation.com/{}",
     "urlMain": "https://www.reverbnation.com/",
     "username_claimed": "blue"
   },
   "Roblox": {
-    "errorMsg": "Page cannot be found or no longer exists",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.roblox.com/user.aspx?username={}",
     "urlMain": "https://www.roblox.com/",
     "username_claimed": "bluewolfekiller"
   },
   "RocketTube": {
-    "errorMsg": "OOPS! Houston, we have a problem",
-    "errorType": "message",
+    "errorType": "status_code",
     "isNSFW": true,
     "url": "https://www.rockettube.com/{}",
     "urlMain": "https://www.rockettube.com/",
@@ -1813,8 +2988,7 @@
     "username_claimed": "griffpatch"
   },
   "Scribd": {
-    "errorMsg": "Page not found",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.scribd.com/{}",
     "urlMain": "https://www.scribd.com/",
     "username_claimed": "blue"
@@ -1827,16 +3001,16 @@
   },
   "Shpock": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9]{3,15}$",
     "url": "https://www.shpock.com/shop/{}/items",
     "urlMain": "https://www.shpock.com/",
     "username_claimed": "user"
   },
   "Signal": {
-    "errorMsg": "Oops! That page doesn\u2019t exist or is private.",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://community.signalusers.org/u/{}",
     "urlMain": "https://community.signalusers.org",
-    "username_claimed": "jlund"
+    "username_claimed": "signalone"
   },
   "Sketchfab": {
     "errorType": "status_code",
@@ -1859,8 +3033,7 @@
     "username_claimed": "blue"
   },
   "Slashdot": {
-    "errorMsg": "user you requested does not exist",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://slashdot.org/~{}",
     "urlMain": "https://slashdot.org",
     "username_claimed": "blue"
@@ -1880,6 +3053,7 @@
   },
   "SmugMug": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z]{1,35}$",
     "url": "https://{}.smugmug.com",
     "urlMain": "https://smugmug.com",
     "username_claimed": "winchester"
@@ -1911,6 +3085,96 @@
     "urlMain": "https://sourceforge.net/",
     "username_claimed": "blue"
   },
+  "TripAdvisor": {
+    "errorType": "status_code",
+    "url": "https://www.tripadvisor.com/Profile/{}",
+    "urlMain": "https://www.tripadvisor.com",
+    "username_claimed": "blue"
+  },
+  "SkyPixel": {
+    "errorType": "status_code",
+    "url": "https://www.skypixel.com/users/{}",
+    "urlMain": "https://www.skypixel.com/",
+    "username_claimed": "france"
+  },
+  "Shutterstock": {
+  "url": "https://www.shutterstock.com/g/{}/about",
+    "urlMain": "https://www.shutterstock.com/",
+    "username_claimed": "blue"
+  },
+  "Habbo": {
+    "errorMsg": "OH BOBBA! PAGE NOT FOUND.",
+    "errorType": "message",
+    "url": "https://www.habbo.com/profile/{}",
+    "urlMain": "https://www.habbo.com/",
+    "username_claimed": "sherlock"
+  },
+  "Volt.fm": {
+    "errorType": "status_code",
+    "url": "https://volt.fm/{}",
+    "urlMain": "https://volt.fm/",
+    "username_claimed": "blue"
+  },
+  "stats.fm": {
+    "errorType": "status_code",
+    "url": "https://stats.fm/{}",
+    "urlMain": "https://stats.fm/",
+    "username_claimed": "blue"
+  },
+  "Skillshare": {
+    "errorType": "status_code",
+    "url": "https://www.skillshare.com/en/user/{}",
+    "urlMain": "https://www.skillshare.com/",
+    "username_claimed": "blue"
+  },
+  "Pexels": {
+    "errorType": "status_code",
+    "url": "https://www.pexels.com/@{}/",
+    "urlMain": "https://www.pexels.com/",
+    "username_claimed": "blue"
+  },
+  "Finary": {
+    "errorType": "status_code",
+    "url": "https://community.finary.com/u/{}/summary",
+    "urlMain": "https://www.finary.com/",
+    "username_claimed": "mounir"
+  },
+  "Figma": {
+    "errorType": "status_code",
+    "url": "https://www.figma.com/@{}",
+    "urlMain": "https://www.figma.com/",
+    "username_claimed": "figma"
+  },
+  "ComeUp": {
+    "errorType": "status_code",
+    "url": "https://comeup.com/en/@{}",
+    "urlMain": "https://comeup.com",
+    "username_claimed": "LFD"
+  },
+  "Comment Ça Marche": {
+    "errorType": "status_code",
+    "url": "https://forums.commentcamarche.net/profile/user/{}",
+    "urlMain": "https://commentcamarche.net",
+    "username_claimed": "blue"
+  },
+  "Canva": {
+    "errorType": "status_code",
+    "url": "https://www.canva.com/p/{}/",
+    "urlMain": "https://www.canva.com/",
+    "username_claimed": "canva"
+  },
+  "Apple Music": {
+    "errorType": "status_code",
+    "url": "https://music.apple.com/profile/{}",
+    "urlMain": "https://music.apple.com",
+    "username_claimed": "jason"
+  },
+  "ArchDaily": {
+    "errorType": "status_code",
+    "url": "https://my.archdaily.com/us/@{}",
+    "urlMain": "https://archdaily.com/",
+    "username_claimed": "blue"
+  },
   "SoylentNews": {
     "errorMsg": "The user you requested does not exist, no matter how much you wish this might be the case.",
     "errorType": "message",
@@ -1919,11 +3183,10 @@
     "username_claimed": "adam"
   },
   "Speedrun.com": {
-    "errorMsg": "Not found",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://speedrun.com/user/{}",
     "urlMain": "https://speedrun.com/",
-    "username_claimed": "3Tau"
+    "username_claimed": "example"
   },
   "Spells8": {
     "errorType": "status_code",
@@ -1995,7 +3258,7 @@
   "Strava": {
     "errorMsg": "Strava | Running, Cycling &amp; Hiking App - Train, Track &amp; Share",
     "errorType": "message",
-    "regexCheck": "^[^.]*?$",
+    "regexCheck": "^[a-zA-Z0-9_-]{3,20}$",
     "url": "https://www.strava.com/athletes/{}",
     "urlMain": "https://www.strava.com/",
     "username_claimed": "blue"
@@ -2100,8 +3363,7 @@
     "username_claimed": "lassestolley"
   },
   "Trello": {
-    "errorMsg": "model not found",
-    "errorType": "message",
+    "errorType": "response_url",
     "url": "https://trello.com/{}",
     "urlMain": "https://trello.com/",
     "urlProbe": "https://trello.com/1/Members/{}",
@@ -2131,6 +3393,7 @@
   },
   "Twitch": {
     "errorType": "status_code",
+    "regexCheck": "^[a-z0-9_]{4,25}$",
     "url": "https://www.twitch.tv/{}",
     "urlMain": "https://www.twitch.tv/",
     "urlProbe": "https://m.twitch.tv/{}",
@@ -2142,7 +3405,7 @@
     "regexCheck": "^[a-zA-Z0-9_]{1,15}$",
     "url": "https://x.com/{}",
     "urlMain": "https://x.com/",
-    "urlProbe": "https://nitter.net/{}",
+    "urlProbe": "https://nitter.privacydev.net/{}",
     "username_claimed": "blue"
   },
   "Typeracer": {
@@ -2204,9 +3467,16 @@
     "urlProbe": "https://test1.venmo.com/u/{}",
     "username_claimed": "jenny"
   },
+  "velog": {
+    "errorType": "status_code",
+    "url": "https://velog.io/@{}",
+    "urlMain": "https://velog.io/",
+    "username_claimed": "blue"
+  },
   "Vero": {
     "errorType": "status_code",
     "request_method": "GET",
+    "regexCheck": "^[a-zA-Z0-9_]{3,15}$",
     "url": "https://vero.co/{}",
     "urlMain": "https://vero.co/",
     "username_claimed": "blue"
@@ -2247,7 +3517,7 @@
   },
   "WebNode": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.webnode.cz/",
     "urlMain": "https://www.webnode.cz/",
     "username_claimed": "radkabalcarova"
@@ -2261,6 +3531,7 @@
   },
   "Weebly": {
     "errorType": "status_code",
+    "regexCheck": "^[a-zA-Z0-9-]{1,63}$",
     "url": "https://{}.weebly.com/",
     "urlMain": "https://weebly.com/",
     "username_claimed": "blue"
@@ -2287,7 +3558,7 @@
   },
   "Wix": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.wix.com",
     "urlMain": "https://wix.com/",
     "username_claimed": "support"
@@ -2314,8 +3585,7 @@
     "username_claimed": "blue"
   },
   "Wordnik": {
-    "errorMsg": "Page Not Found",
-    "errorType": "message",
+    "errorType": "status_code",
     "regexCheck": "^[a-zA-Z0-9_.+-]{1,40}$",
     "url": "https://www.wordnik.com/users/{}",
     "urlMain": "https://www.wordnik.com/",
@@ -2395,8 +3665,7 @@
     "username_claimed": "blue"
   },
   "babyRU": {
-    "errorMsg": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0432\u044b \u0438\u0441\u043a\u0430\u043b\u0438, \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u0430",
-    "errorType": "message",
+    "errorType": "response_url",
     "url": "https://www.baby.ru/u/{}/",
     "urlMain": "https://www.baby.ru/",
     "username_claimed": "blue"
@@ -2492,12 +3761,50 @@
     "urlProbe": "https://api.freecodecamp.org/api/users/get-public-profile?username={}",
     "username_claimed": "naveennamani"
   },
+  "Flashback": {
+    "errorMsg": "1",
+    "errorType": "message",
+    "url": "https://www.flashback.org/ajax/fb_register_username_check.php?username={}",
+    "urlMain": "https://www.flashback.org",
+    "username_claimed": "admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Gitea": {
+    "errorType": "status_code",
+    "url": "https://gitea.com/{}",
+    "urlMain": "https://gitea.com/",
+    "username_claimed": "ltxxjs",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Cracked.io": {
+    "errorType": "status_code",
+    "url": "https://cracked.io/{}",
+    "urlMain": "https://cracked.io/",
+    "username_claimed": "Blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "KeskonfaiFR": {
+    "errorType": "status_code",
+    "url": "https://keskonfai.fr/@{}",
+    "urlMain": "https://keskonfai.fr",
+    "username_claimed": "steph_test",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
+  "GameFAQs": {
+    "errorType": "status_code",
+    "url": "https://gamefaqs.gamespot.com/community/{}",
+    "urlMain": "https://gamefaqs.gamespot.com",
+    "username_claimed": "samxmas",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  
   "furaffinity": {
     "errorMsg": "This user cannot be found.",
     "errorType": "message",
     "url": "https://www.furaffinity.net/user/{}",
     "urlMain": "https://www.furaffinity.net",
-    "username_claimed": "jesus"
+    "username_claimed": "jesus",
+    "username_unclaimed": "noonewouldeverusethis7"
   },
   "geocaching": {
     "errorType": "status_code",
@@ -2660,7 +3967,7 @@
   },
   "nnRU": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.www.nn.ru/",
     "urlMain": "https://www.nn.ru/",
     "username_claimed": "blue"
@@ -2736,9 +4043,23 @@
     "urlMain": "https://sessionize.com/",
     "username_claimed": "jason-mayes"
   },
+  "DDRaceNetwork": {
+    "errorType": "status_code",
+    "url": "https://ddnet.org/players/{}",
+    "urlMain": "https://ddnet.org",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Likee": {
+    "errorType": "status_code",
+    "url": "https://likee.video/@{}",
+    "urlMain": "https://likee.video/",
+    "username_claimed": "anne",
+    "username_unclaimed": "noonewouldneverusethi77"
+  },
   "skyrock": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z0-9@_-]$",
+    "regexCheck": "^[a-zA-Z0-9@_-]+$",
     "url": "https://{}.skyrock.com/",
     "urlMain": "https://skyrock.com/",
     "username_claimed": "red"
